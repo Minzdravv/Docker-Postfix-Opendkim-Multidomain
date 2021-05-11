@@ -1,0 +1,2 @@
+{{DKIM_SELECTOR1}}._domainkey.{{DKIM_DOMAIN1}} {{DKIM_DOMAIN1}}:{{DKIM_SELECTOR1}}:/etc/opendkim/keys/{{DKIM_SELECTOR1}}.private
+{{DKIM_SELECTOR2}}._domainkey.{{DKIM_DOMAIN2}} {{DKIM_DOMAIN2}}:{{DKIM_SELECTOR2}}:/etc/opendkim/keys/{{DKIM_SELECTOR2}}.private
